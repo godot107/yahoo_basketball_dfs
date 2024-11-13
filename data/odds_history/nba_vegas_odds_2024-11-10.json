@@ -1,0 +1,4140 @@
+[
+    {
+        "id": "03107774cb0b0cc72417346ff491d10b",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-10T20:10:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Houston Rockets",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.36
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.62
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.91,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.62
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.93,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.89,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.62
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.93,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.59
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.91,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.43
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.59
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.91,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.35
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.61
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.91,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.42
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.57
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.91,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.38
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.62
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.91,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.92,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.89,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 2.45
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.59
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Pistons",
+                                "price": 1.95,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Houston Rockets",
+                                "price": 1.87,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d082b83dd23d8910ae6b84cdf74a6f9c",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-10T20:40:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Boston Celtics",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.49
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.72
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.91,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.54
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.91,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.54
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.54
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.87,
+                                "point": -4.0
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.95,
+                                "point": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.58
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.91,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.53
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.91,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.91,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.91,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.58
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.95,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.87,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.58
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.52
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.99,
+                                "point": -4.5
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.9,
+                                "point": 4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.51
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.65
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.91,
+                                "point": -4.0
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.91,
+                                "point": 4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.57
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 2.45
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Boston Celtics",
+                                "price": 1.92,
+                                "point": -4.0
+                            },
+                            {
+                                "name": "Milwaukee Bucks",
+                                "price": 1.89,
+                                "point": 4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8ba94b6f56fc0bb50bd04ad13e2b73fb",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-10T22:10:00Z",
+        "home_team": "Indiana Pacers",
+        "away_team": "New York Knicks",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.38
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.61
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.93,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.89,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.23
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.66
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.65
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.89,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.93,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.69
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.9,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.99,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.69
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.87,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.95,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.65
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.67
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.95,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.25
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.69
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.3
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.67
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 2.33
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.64
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Indiana Pacers",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "New York Knicks",
+                                "price": 1.94,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2f1d263e41f6003cbc4dbfbba0adc84e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-10T23:10:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Washington Wizards",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.21
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.7
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.89,
+                                "point": -10.0
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.93,
+                                "point": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.22
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.89,
+                                "point": -10.0
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.93,
+                                "point": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.21
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.44
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.91,
+                                "point": -10.0
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.91,
+                                "point": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.21
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.91,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.2
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.95,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.22
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.55
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.91,
+                                "point": -10.0
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.91,
+                                "point": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.22
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.91,
+                                "point": -10.0
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.91,
+                                "point": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.22
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.94,
+                                "point": -10.0
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.94,
+                                "point": 10.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.2
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.6
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.95,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.87,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.22
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 4.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando Magic",
+                                "price": 1.91,
+                                "point": -9.5
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 1.91,
+                                "point": 9.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5ba3634de6acb1ee1df9993f24229994",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-11T00:10:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Charlotte Hornets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.54
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.54
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.89,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.6
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.87,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.6
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.99,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.9,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.53
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.87,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.58
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.53
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.91,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.51
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.54
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.91,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.56
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.54
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.93,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.89,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.91,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.91,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.87,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 2.55
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.54
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.92,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Philadelphia 76ers",
+                                "price": 1.89,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e4f700f813869b6430e7db005a85a087",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-11T00:10:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Golden State Warriors",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.38
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.38
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.89,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.93,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.39
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.96,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.08
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.38
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.15
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.38
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.89,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.93,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.22
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.36
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.36
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.18
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.38
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.42
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.91,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.91,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 3.0
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.41
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 1.88,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "22966137a0b1df67555591c1a15cb76e",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-11T00:10:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Miami Heat",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.32
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.89,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.93,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.56
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.3
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.91,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.7
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.3
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.91,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.31
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.91,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.6
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.29
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.95,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.87,
+                                "point": -7.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.4
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.34
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.91,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.45
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.34
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.91,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.45
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.34
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.94,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.94,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.5
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.33
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.95,
+                                "point": 8.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.87,
+                                "point": -8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 3.4
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.34
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Miami Heat",
+                                "price": 1.91,
+                                "point": 7.5
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -7.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "95c6606a73e1218dfde3a620a8f70281",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-11T01:10:00Z",
+        "home_team": "Denver Nuggets",
+        "away_team": "Dallas Mavericks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.93,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.89,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.56
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.41
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.57
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.48
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.57
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.54
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.87,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.95,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.59
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.94,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.94,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.59
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.57
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.95,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.87,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.6
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.53
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.88,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.93,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.46
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.59
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2186b9470c9e358ca60ec9f62eb383ab",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-11T01:10:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.96
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.89
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.89,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.93,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.9
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.91,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.91,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.93
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.89
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.87,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.95,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.96,
+                                "point": 0.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.93,
+                                "point": 0.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.93,
+                                "point": 0.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.89,
+                                "point": 0.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.91
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.91,
+                                "point": 0.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.91,
+                                "point": -0.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.91
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 2.05,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.8,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.87,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.95,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.96
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.92,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.89,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Phoenix Suns",
+                                "price": 1.91,
+                                "point": 0.0
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 1.91,
+                                "point": 0.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6b8494ce0f87df2a92dd6c1b2e96821f",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-11T02:10:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Memphis Grizzlies",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.93,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.89,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.86
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.91,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.91,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.93
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.93
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.91,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.91,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.83
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 2.0
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.91,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.91,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.95,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.87,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.91
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.91
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.87,
+                                "point": 1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.95,
+                                "point": -1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.89
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.94
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.94,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.94,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.88
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.93
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.91,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.91,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.89
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.94
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.93,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.88,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.87
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.95
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Memphis Grizzlies",
+                                "price": 1.91,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Portland Trail Blazers",
+                                "price": 1.91,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "86063535fd6ffaed9aab4bfd1a0082c4",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-11-11T02:40:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Toronto Raptors",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.17
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.4
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.89,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.93,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.18
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 4.94
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.91,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.18
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.2
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.91,
+                                "point": -11.0
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.91,
+                                "point": 11.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-11-10T14:55:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.17
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.3
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:55:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.91,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-11-10T14:57:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.15
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:18Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.91,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-11-10T14:56:50Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.17
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.1
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:50Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.87,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.95,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.17
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.4
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.93,
+                                "point": -11.0
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.88,
+                                "point": 11.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-11-10T14:56:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.18
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.35
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.94,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.94,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-11-10T14:57:37Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.18
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.35
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:57:37Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.91,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-11-10T14:56:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.18
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 5.3
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-11-10T14:56:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Lakers",
+                                "price": 1.91,
+                                "point": -10.5
+                            },
+                            {
+                                "name": "Toronto Raptors",
+                                "price": 1.91,
+                                "point": 10.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

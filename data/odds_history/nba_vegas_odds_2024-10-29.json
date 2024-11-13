@@ -1,0 +1,762 @@
+[
+    {
+        "id": "15893327c28d5d11f74b1b9a0560aa78",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-10-29T23:30:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Dallas Mavericks",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-29T20:31:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:31:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.64
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.51
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:31:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.89,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.93,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-29T20:32:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.66
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.51
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.94,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.88,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.53
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.94,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.94,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-10-29T20:23:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:23:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.49
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:23:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.87,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-29T20:31:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.51
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.51
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.87,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-29T20:32:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.51
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-29T20:32:24Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.49
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Dallas Mavericks",
+                                "price": 1.92,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.89,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "351ec2a958a204ecb22489330d658ce6",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2024-10-29T23:40:00Z",
+        "home_team": "Brooklyn Nets",
+        "away_team": "Denver Nuggets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-29T20:31:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:31:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.49
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:31:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-29T20:32:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.72
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.49
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:59Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.88,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.94,
+                                "point": -5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.75
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.49
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.93,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.88,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.75
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.49
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.97,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.92,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-10-29T20:23:53Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:23:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.62
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.51
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:23:53Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.48
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.95,
+                                "point": 4.5
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.87,
+                                "point": -4.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-29T20:31:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.68
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:31:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-29T20:32:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.8
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.45
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-29T20:32:58Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.7
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:58Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.91,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.91,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-29T20:32:24Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-29T20:32:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.5
+                            }
+                        ]
+                    },
+                    {
+                        "key": "spreads",
+                        "last_update": "2024-10-29T20:32:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Brooklyn Nets",
+                                "price": 1.89,
+                                "point": 5.0
+                            },
+                            {
+                                "name": "Denver Nuggets",
+                                "price": 1.92,
+                                "point": -5.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

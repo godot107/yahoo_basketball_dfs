@@ -1,0 +1,43 @@
+{
+  "nba.p.2544": {
+    "Yahoo": "LeBron James",
+    "BBall Reference": "LeBron James"
+  },
+  "nba.p.4390": {
+    "Yahoo": "Klay Thompson",
+    "BBall Reference": "K. Thompson"
+  },
+  "nba.p.3038": {
+    "Yahoo": "Giannis Antetokounmpo",
+    "BBall Reference": "G. Antetokounmpo"
+  },
+  "nba.p.5352": {
+    "Yahoo": "Nikola Jokic",
+    "BBall Reference": "N. Jokic"
+  },
+  "nba.p.10294": {
+    "Yahoo": "Alex Sarr",
+    "BBall Reference": "",
+    "NBA": {"full name": "Alexandre Sarr", "id": ""}
+  },
+  "nba.p.4886": {
+    "Yahoo": "Jonas Valanciunas",
+    "BBall Reference": "Jonas Valančiūnas",
+    "NBA": {"full name": "Jonas Valančiūnas", "id":"202685"}
+  }, 
+  "nba.p.6014": {
+    "Yahoo": "Luka Doncic",
+    "BBall Reference": "Luka Dončić",
+    "NBA": {"full name": "Luka Dončić", "id":"1629029"}
+  }, 
+  "nba.p.5464": {
+    "Yahoo": "Kristaps Porzingis",
+    "BBall Reference": "Kristaps Porziņģis",
+  },
+
+
+
+
+
+
+}
