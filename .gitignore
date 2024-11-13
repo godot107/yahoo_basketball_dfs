@@ -1,0 +1,14 @@
+# ignore auth
+*oauth2.json
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore all .DS_Store files (common on macOS)
+.DS_Store
